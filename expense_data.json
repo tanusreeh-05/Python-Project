@@ -1,0 +1,97 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "type": "Expense",
+            "category": "Food",
+            "amount": 800.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 2,
+            "type": "Expense",
+            "category": "Clothes",
+            "amount": 1500.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 3,
+            "type": "Expense",
+            "category": "Entertainment",
+            "amount": 1000.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 4,
+            "type": "Expense",
+            "category": "Shopping",
+            "amount": 1500.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 6,
+            "type": "Expense",
+            "category": "Grocery",
+            "amount": 3000.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 7,
+            "type": "Expense",
+            "category": "Bills",
+            "amount": 2500.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 8,
+            "type": "Expense",
+            "category": "Health",
+            "amount": 3000.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 9,
+            "type": "Expense",
+            "category": "Education",
+            "amount": 3500.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 10,
+            "type": "Expense",
+            "category": "Travel",
+            "amount": 5000.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        },
+        {
+            "id": 11,
+            "type": "Expense",
+            "category": "Gas/Petrol",
+            "amount": 3000.0,
+            "date": "2026-11-15",
+            "description": "N/A"
+        }
+    ],
+    "budgets": {
+        "Food": 1500.0,
+        "Clothes": 2000.0,
+        "Entertainment": 1500.0,
+        "Shopping": 2000.0,
+        "Grocery": 3000.0,
+        "Bills": 2500.0,
+        "Health": 0.0,
+        "Education": 0.0,
+        "Travel": 7000.0,
+        "Gas/Petrol": 3000.0
+    },
+    "salary": 70000.0
+}
