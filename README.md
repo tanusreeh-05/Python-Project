@@ -23,7 +23,7 @@ The application uses JSON-based file handling to store financial records, ensuri
 ## Expense Categories
 
 The application supports the following predefined categories:
-
+```
 1. Food
 2. Clothes
 3. Entertainment
@@ -34,6 +34,7 @@ The application supports the following predefined categories:
 8. Education
 9. Travel
 10. Gas/Petrol
+```
 
 ## Technologies Used
 
@@ -52,12 +53,13 @@ The application supports the following predefined categories:
 No external Python packages are required.
 
 ## Project Structure
-
+```
 Expense-Tracker/
 │
 ├── expense-tracker.py
 ├── expense_data.json
 └── README.md
+```
 
 `expense-tracker.py` :  Main application containing the program logic and functionalities.
 `expense_data.json` : Stores transaction records, budget configurations, and salary information. 
@@ -72,19 +74,19 @@ Expense-Tracker/
 
 ### Setup Instructions
 
-Step 1: Clone the Repository 
+ Step 1: Clone the Repository 
 
 git clone <repository-url>
 
-Step 2: Navigate to the Project Directory 
+ Step 2: Navigate to the Project Directory 
 
 cd Expense-Tracker
 
-Step 3: Execute the Application 
+ Step 3: Execute the Application 
 
 python expense-tracker.py
 
-Step 4: Initialize the Application 
+ Step 4: Initialize the Application 
 
 On the first execution, the application prompts the user to enter their monthly salary or income. Users can then access the available functionalities through the interactive menu.
 
